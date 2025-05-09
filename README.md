@@ -26,3 +26,6 @@ We also wrote a testbench in Verilog to simulate the filter. A testbench is like
 After running the simulation using Icarus Verilog (a free Verilog compiler), we used GTKWave to view the results. GTKWave shows the waveforms of the signals, such as the clock, input, and output, over time. We could clearly see how the input values were shifting through the filter and how the output changed according to the inputs and coefficients. The output matched the expected values, proving that the FIR filter was working correctly.
 
 This project helped us understand how FIR filters work and how we can use Verilog to design real digital systems. It showed how inputs are processed step by step using basic mathematical operations like multiplication and addition. It also taught us how to simulate digital circuits and view their behavior over time using waveform tools. FIR filters are useful in many applications like audio processing, image enhancement, and communication systems. By completing this project, we learned how to create a useful signal processing component that can be used in real hardware systems.
+
+<img width="945" alt="Image" src="https://github.com/user-attachments/assets/882e1d46-37ec-43c2-8374-71c364844cbe" />
+<img width="544" alt="Image" src="https://github.com/user-attachments/assets/dde3191c-0c33-42a1-adee-70a3f948d75d" />
